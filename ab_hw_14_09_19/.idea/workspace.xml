@@ -33,6 +33,52 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Application.Ans4DigitSumChallenge">
+    <configuration name="Ans17AverageValueOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ans17AverageValueOfArray" />
+      <module name="ab_hw_14_09_19" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ans18ArrayContainSpecificValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ans18ArrayContainSpecificValue" />
+      <module name="ab_hw_14_09_19" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ans19Diamond" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ans19Diamond" />
+      <module name="ab_hw_14_09_19" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ans20LeftAngleTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ans20LeftAngleTriangle" />
+      <module name="ab_hw_14_09_19" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ans4DigitSumChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ans4DigitSumChallenge" />
+      <module name="ab_hw_14_09_19" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ans4DigitSumChallenge" />
+        <item itemvalue="Application.Ans20LeftAngleTriangle" />
+        <item itemvalue="Application.Ans19Diamond" />
+        <item itemvalue="Application.Ans18ArrayContainSpecificValue" />
+        <item itemvalue="Application.Ans17AverageValueOfArray" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
