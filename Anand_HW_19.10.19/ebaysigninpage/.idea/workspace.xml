@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5686ae8-5c98-4596-b520-b212d2e1099a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SZblFHdeqlyonp47yapXlwDfyY" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/sample-nopcommerce-maven-project" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rutub\IdeaProjects\ebaysigninpage\src\test\java\co\uk\ebay\mavenproject" />
+      <recent name="C:\Users\rutub\IdeaProjects\ebaysigninpage\src\main\java\co\uk\ebay\mavenproject" />
+      <recent name="C:\Users\rutub\IdeaProjects\ebaysigninpage" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.SignInPageTest">
+    <configuration name="SignInPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ebaysigninpage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.uk.ebay.mavenproject.testsuites.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="co.uk.ebay.mavenproject.testsuites" />
+      <option name="MAIN_CLASS_NAME" value="co.uk.ebay.mavenproject.testsuites.SignInPageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SignInPageTest.homepageShouldOpenSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ebaysigninpage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.uk.ebay.mavenproject.testsuites.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="co.uk.ebay.mavenproject.testsuites" />
+      <option name="MAIN_CLASS_NAME" value="co.uk.ebay.mavenproject.testsuites.SignInPageTest" />
+      <option name="METHOD_NAME" value="homepageShouldOpenSuccessfully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.SignInPageTest" />
+        <item itemvalue="TestNG.SignInPageTest.homepageShouldOpenSuccessfully" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5686ae8-5c98-4596-b520-b212d2e1099a" name="Default Changelist" comment="" />
+      <created>1571774004329</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571774004329</updated>
+    </task>
+    <servers />
+  </component>
+</project>
