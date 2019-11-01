@@ -16,13 +16,13 @@ public class TestBase extends BasePage {
     String browser = new LoadProperty().getProperty("browser");
     BrowserSelector browserSelector = new BrowserSelector();
 
-    @BeforeMethod
+    @BeforeMethod (alwaysRun = true)
     public void setUp() {
 
         browserSelector.selectBrowser(browser);
     }
 
-    @AfterMethod
+    @AfterMethod (alwaysRun = true)
     public void closeDown() {
 
         driver.quit();
