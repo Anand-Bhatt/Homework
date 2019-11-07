@@ -1,0 +1,125 @@
+2019-11-04 20:11:581 INFO  LoginPage :26 - Enter Email: 
+2019-11-04 20:11:821 INFO  LoginPage :31 - Enter password
+2019-11-04 20:11:45 INFO  LoginPage :36 - Click on Login button: 
+2019-11-04 20:11:303 INFO  LoginPage :41 - To veriry successful login
+2019-11-04 20:11:813 INFO  LoginPage :26 - Enter Email: 
+2019-11-04 20:11:423 INFO  LoginPage :31 - Enter password
+2019-11-04 20:11:621 INFO  LoginPage :36 - Click on Login button: 
+2019-11-04 20:11:862 INFO  LoginPage :41 - To veriry successful login
+2019-11-04 20:11:451 INFO  LoginPage :26 - Enter Email: 
+2019-11-04 20:11:655 INFO  LoginPage :31 - Enter password
+2019-11-04 20:11:784 INFO  LoginPage :36 - Click on Login button: 
+2019-11-04 20:11:723 INFO  LoginPage :41 - To veriry successful login
+2019-11-04 20:11:246 INFO  LoginPage :26 - Enter Email: 
+2019-11-04 20:11:794 INFO  LoginPage :31 - Enter password
+2019-11-04 20:11:975 INFO  LoginPage :36 - Click on Login button: 
+2019-11-04 20:11:522 INFO  LoginPage :41 - To veriry successful login
+2019-11-04 20:11:718 INFO  LoginPage :26 - Enter Email: 
+2019-11-04 20:11:866 INFO  LoginPage :31 - Enter password
+2019-11-04 20:11:01 INFO  LoginPage :36 - Click on Login button: 
+2019-11-04 20:11:881 INFO  LoginPage :41 - To veriry successful login
+2019-11-04 20:11:425 INFO  LoginPage :26 - Enter Email: 
+2019-11-04 20:11:534 INFO  LoginPage :31 - Enter password
+2019-11-04 20:11:629 INFO  LoginPage :36 - Click on Login button: 
+2019-11-04 20:11:45 INFO  LoginPage :41 - To veriry successful login
+2019-11-04 22:11:532 INFO  LoginPage :31 - Enter Email: 
+2019-11-04 22:11:553 INFO  LoginPage :36 - Enter password
+2019-11-04 22:11:906 INFO  LoginPage :41 - Click on Login button: 
+2019-11-04 22:11:743 INFO  LoginPage :51 - Unsuccessful login
+2019-11-04 22:11:647 INFO  LoginPage :31 - Enter Email: 
+2019-11-04 22:11:748 INFO  LoginPage :36 - Enter password
+2019-11-04 22:11:847 INFO  LoginPage :41 - Click on Login button: 
+2019-11-04 22:11:06 INFO  LoginPage :51 - Unsuccessful login
+2019-11-04 22:11:520 INFO  LoginPage :31 - Enter Email: 
+2019-11-04 22:11:695 INFO  LoginPage :36 - Enter password
+2019-11-04 22:11:791 INFO  LoginPage :41 - Click on Login button: 
+2019-11-04 22:11:311 INFO  LoginPage :51 - Unsuccessful login
+2019-11-05 16:11:33 INFO  LoginPage :57 - Registration page Welcome message displayed
+2019-11-05 16:11:272 INFO  LoginPage :57 - Registration page Welcome message displayed
+2019-11-05 16:11:348 INFO  LoginPage :62 - Gender button selected
+2019-11-05 16:11:451 INFO  LoginPage :67 - First Name
+2019-11-05 16:11:797 INFO  LoginPage :73 - Last Name
+2019-11-05 16:11:928 INFO  LoginPage :78 - Date of Birth
+2019-11-05 16:11:886 INFO  LoginPage :57 - Registration page Welcome message displayed
+2019-11-05 16:11:198 INFO  LoginPage :57 - Registration page Welcome message displayed
+2019-11-05 16:11:250 INFO  LoginPage :62 - Gender button selected
+2019-11-05 16:11:370 INFO  LoginPage :67 - First Name
+2019-11-05 16:11:658 INFO  LoginPage :73 - Last Name
+2019-11-05 16:11:839 INFO  LoginPage :78 - Date of Birth
+2019-11-05 16:11:550 INFO  LoginPage :57 - Registration page Welcome message displayed
+2019-11-05 16:11:782 INFO  LoginPage :57 - Registration page Welcome message displayed
+2019-11-05 16:11:824 INFO  LoginPage :62 - Gender button selected
+2019-11-05 16:11:955 INFO  LoginPage :67 - First Name
+2019-11-05 16:11:249 INFO  LoginPage :73 - Last Name
+2019-11-05 16:11:385 INFO  LoginPage :78 - Date of Birth
+2019-11-05 16:11:93 INFO  LoginPage :83 - Month of Birth
+2019-11-05 16:11:437 INFO  LoginPage :88 - Year of birth
+2019-11-05 16:11:600 INFO  LoginPage :93 - Email address
+2019-11-05 16:11:813 INFO  LoginPage :98 - Company Name
+2019-11-05 16:11:132 INFO  LoginPage :125 - News letter checkbox optional
+2019-11-05 16:11:247 INFO  LoginPage :103 - Password
+2019-11-05 16:11:385 INFO  LoginPage :108 - Confirm Password
+2019-11-05 16:11:499 INFO  LoginPage :114 - Registration button
+2019-11-05 16:11:50 INFO  LoginPage :119 - Registration text verification
+2019-11-05 17:11:891 INFO  RegisterPage :58 - Registration page Welcome message displayed
+2019-11-05 17:11:112 INFO  RegisterPage :58 - Registration page Welcome message displayed
+2019-11-05 17:11:168 INFO  RegisterPage :63 - Gender button selected
+2019-11-05 17:11:328 INFO  RegisterPage :68 - First Name
+2019-11-05 17:11:593 INFO  RegisterPage :74 - Last Name
+2019-11-05 17:11:764 INFO  RegisterPage :79 - Date of Birth
+2019-11-05 17:11:396 INFO  RegisterPage :84 - Month of Birth
+2019-11-05 17:11:615 INFO  RegisterPage :89 - Year of birth
+2019-11-05 17:11:946 INFO  RegisterPage :94 - Email address
+2019-11-05 17:11:326 INFO  RegisterPage :99 - Company Name
+2019-11-05 17:11:528 INFO  RegisterPage :126 - News letter checkbox optional
+2019-11-05 17:11:695 INFO  RegisterPage :104 - Password
+2019-11-05 17:11:834 INFO  RegisterPage :109 - Confirm Password
+2019-11-05 17:11:109 INFO  RegisterPage :115 - Registration button
+2019-11-05 17:11:869 INFO  RegisterPage :120 - Registration text verification
+2019-11-05 17:11:869 INFO  RegisterPage :58 - Registration page Welcome message displayed
+2019-11-05 17:11:933 INFO  RegisterPage :58 - Registration page Welcome message displayed
+2019-11-05 17:11:969 INFO  RegisterPage :63 - Gender button selected
+2019-11-05 17:11:693 INFO  RegisterPage :68 - First Name
+2019-11-05 17:11:841 INFO  RegisterPage :74 - Last Name
+2019-11-05 17:11:957 INFO  RegisterPage :79 - Date of Birth
+2019-11-05 17:11:125 INFO  RegisterPage :84 - Month of Birth
+2019-11-05 17:11:277 INFO  RegisterPage :89 - Year of birth
+2019-11-05 17:11:417 INFO  RegisterPage :94 - Email address
+2019-11-05 17:11:625 INFO  RegisterPage :99 - Company Name
+2019-11-05 17:11:827 INFO  RegisterPage :126 - News letter checkbox optional
+2019-11-05 17:11:913 INFO  RegisterPage :104 - Password
+2019-11-05 17:11:115 INFO  RegisterPage :109 - Confirm Password
+2019-11-05 17:11:274 INFO  RegisterPage :115 - Registration button
+2019-11-05 17:11:18 INFO  RegisterPage :120 - Registration text verification
+2019-11-05 18:11:666 INFO  HomePage :71 - Computers link
+2019-11-05 18:11:763 INFO  HomePage :76 - Electronics link
+2019-11-05 18:11:213 INFO  HomePage :81 - Apparel link
+2019-11-05 18:11:251 INFO  HomePage :86 - Digital Downloads link
+2019-11-05 18:11:385 INFO  HomePage :91 - Books link
+2019-11-05 18:11:664 INFO  HomePage :96 - Jewelry link
+2019-11-05 18:11:417 INFO  HomePage :101 - Gift Cards link
+2019-11-05 19:11:29 INFO  HomePage :86 - Computers link
+2019-11-05 19:11:570 INFO  HomePage :122 - Verification Computers
+2019-11-05 19:11:991 INFO  HomePage :86 - Computers link
+2019-11-05 19:11:732 INFO  HomePage :122 - Verification Computers
+2019-11-05 19:11:253 INFO  HomePage :86 - Computers link
+2019-11-05 19:11:737 INFO  HomePage :122 - Verification Computers
+2019-11-05 19:11:349 INFO  HomePage :91 - Electronics link
+2019-11-05 19:11:441 INFO  HomePage :127 - Verification Electronics
+2019-11-05 19:11:841 INFO  HomePage :86 - Computers link
+2019-11-05 19:11:268 INFO  HomePage :122 - Verification Computers
+2019-11-05 19:11:861 INFO  HomePage :91 - Electronics link
+2019-11-05 19:11:450 INFO  HomePage :86 - Computers link
+2019-11-05 19:11:892 INFO  HomePage :122 - Verification Computers
+2019-11-05 19:11:771 INFO  HomePage :86 - Computers link
+2019-11-05 19:11:153 INFO  HomePage :122 - Verification Computers
+2019-11-05 19:11:285 INFO  HomePage :86 - Computers link
+2019-11-05 19:11:12 INFO  HomePage :86 - Computers link
+2019-11-05 19:11:455 INFO  HomePage :91 - Electronics link
+2019-11-05 19:11:667 INFO  HomePage :86 - Computers link
+2019-11-05 19:11:205 INFO  HomePage :122 - Verification Computers
+2019-11-05 19:11:366 INFO  HomePage :91 - Electronics link
+2019-11-05 19:11:667 INFO  HomePage :86 - Computers link
+2019-11-05 19:11:228 INFO  HomePage :122 - Verification Computers
+2019-11-05 19:11:77 INFO  HomePage :91 - Electronics link
+2019-11-05 19:11:303 INFO  HomePage :127 - Verification Electronics
